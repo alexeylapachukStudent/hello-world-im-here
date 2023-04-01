@@ -1,2 +1,4 @@
 # hello-world-im-here
-My first repository created for studiyng
+
+
+Here is. I created my first branch and now I see how it works!
